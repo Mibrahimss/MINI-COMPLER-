@@ -19,3 +19,5 @@ This is a mini compiler project developed as part of my academic coursework. It 
 3. Run the main script:
    ```bash
    python main.py
+PROJECT BY: SAYYED MOHAMMAD IBRAHIM FAIYAZ
+MENTOR: ALI KARIM SAYYED/SUMIT JAISWAR
